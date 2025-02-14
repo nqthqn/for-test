@@ -1,2 +1,2 @@
 FROM alpine
-CMD ["echo", "Hello, v3!"]
+CMD ["echo", "v1.1.0"]
